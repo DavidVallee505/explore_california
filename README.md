@@ -1,2 +1,2 @@
 # explore_california
-Git Training from Linda.com
+Git Training from Lynda.com
